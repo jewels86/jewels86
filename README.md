@@ -2,7 +2,7 @@
 I'm `jewels86`! I'm a versatile developer specializing in C#, Python, and the webdev languages. 
 You can check out my projects over at the [repositories tab](https://github.com/jewels86?tab=repositories) or at [my website](https://jewels86.me)!
 Some things I'm currently working on:
-- **Axinite**: An powerful open-source engine for advanced celestial mechanics.
+- **Axinite**: A powerful open-source engine for advanced celestial mechanics.
 - **Topaz**: Effortlessly manage both your work and life with one seamless platform.
 
 Some things I've finished:
