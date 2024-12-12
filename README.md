@@ -9,3 +9,5 @@ Some things I've finished:
 - **Tourmaline**: A comprehensive and effcient web enumeration toolkit.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jewels86&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+You can reach be through email at `jewels286@proton.me`, or through Wire/Discord at `jewels86`.
