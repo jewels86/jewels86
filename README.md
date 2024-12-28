@@ -8,4 +8,6 @@ Some things I'm currently working on:
 
 [![github-stats](https://github-readme-stats.vercel.app/api?username=jewels86&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jewels86&theme=github_dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 You can reach be through email at `jewels286@proton.me`, or through Wire/Discord at `jewels86`.
