@@ -1,6 +1,6 @@
 ## Hey👋
 I'm `jewels86`! I'm a versatile developer specializing in C#, Python, and the webdev languages. 
-You can check out my projects over at the [repositories tab](https://github.com/jewels86?tab=repositories) or at [my website](https://jewels86.me)!
+You can check out my projects over at the [repositories tab](https://github.com/jewels86?tab=repositories) or on [my website](https://jewels86.me)!
 Some things I'm currently working on:
 - **Topaz**: Effortlessly manage both your work and life with one seamless platform.
 - **Lazulite**: A modular, extensible framework that empowers developers to build advanced programming languages.
