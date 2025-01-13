@@ -11,4 +11,4 @@ Some things I've finished:
 
 [![github-stats](https://github-readme-stats.vercel.app/api?username=jewels86&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-You can reach be through email at `jewels286@proton.me`, or through Wire/Discord at `jewels86`.
+You can reach be through email at `jewels@jewels86.me`, or through Wire/Discord at `jewels86`.
