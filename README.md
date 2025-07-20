@@ -14,7 +14,7 @@ Some things I've finished:
 [![github-stats](https://github-readme-stats.vercel.app/api?username=jewels86&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Other Work
-In addition to programming, I also work in physics, biology, and chemistry. Lately, I've been working with [string theory](https://en.wikipedia.org/wiki/String_theory), along with basic Special Relativity and Quantum Mechanics.
+In addition to programming, I also study physics, biology, and chemistry.
 
 ## Contacting Me
 You can reach out to me through my email at `jewels@jewels86.me`, or through Discord at `jewels86`.
