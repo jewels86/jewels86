@@ -15,6 +15,7 @@ Some things I'm currently working on:
 Some things I've finished:
 - [**Tourmaline**](https://github.com/jewels86/Tourmaline): A comprehensive and effcient web enumeration toolkit.
 - [**Axinite**](https://github.com/jewels86/Axinite): A powerful open-source engine for advanced celestial mechanics.
+- [**ReX**](https://github.com/jewels86/ReX): A **Re**cursive e**X**ploration algorithm which finds the area of polygons.
 
 [![github-stats](https://github-readme-stats.vercel.app/api?username=jewels86&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
