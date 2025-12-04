@@ -11,6 +11,7 @@ Some things I'm currently working on:
 - [**Opal**](https://github.com/jewels86/Opal): A deep learning and automatic differentiation library built for extensibility and performance.
 - [**Lazulite**](https://github.com/jewels86/Lazulite): GPU-accelerated scientific computing for C#.
 - [**ParaSharp**](https://github.com/jewels86/ParaSharp): Paravectors for the efficient storing of mathematical functions and other data.
+- 
 Some things I've finished:
 - [**Tourmaline**](https://github.com/jewels86/Tourmaline): A comprehensive and efficient web enumeration toolkit.
 - [**Axinite**](https://github.com/jewels86/Axinite): A powerful open-source engine for advanced celestial mechanics.
