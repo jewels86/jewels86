@@ -6,18 +6,21 @@ You can check out my projects over at the [repositories tab](https://github.com/
 I mostly work with scientific computing and things of that nature; celestial mechanics, machine learning, things like that.
 Recently, I've been branching out into general relativity for Axinite's V2 and learning a lot about ML for Opal.
 
+### My Projects
 Some things I'm currently working on:
-- [**Topaz**](https://github.com/jewels86/Topaz): Effortlessly manage both your work and life with one seamless platform (outside support wanted!).
-- [**Opal**](https://github.com/jewels86/Opal): An all-in-one library of production-ready AI components.
-- [**Axinite V2**](https://github.com/jewels86/Axinite): A powerful and open-source engine for efficiently simulating general relativity.
-- [**Onyx**](https://github.com/jewels86/Onyx): Securing C# with secure-by-design and zero-trust principles
-
+- [**Opal**](https://github.com/jewels86/Opal): A deep learning and automatic differentiation library built for extensibility and performance.
+- [**Lazulite**](https://github.com/jewels86/Lazulite): GPU-accelerated scientific computing for C#.
+- [**ParaSharp**](https://github.com/jewels86/ParaSharp): Paravectors for the efficient storing of mathematical functions and other data.
 Some things I've finished:
-- [**Tourmaline**](https://github.com/jewels86/Tourmaline): A comprehensive and effcient web enumeration toolkit.
+- [**Tourmaline**](https://github.com/jewels86/Tourmaline): A comprehensive and efficient web enumeration toolkit.
 - [**Axinite**](https://github.com/jewels86/Axinite): A powerful open-source engine for advanced celestial mechanics.
-- [**ReX**](https://github.com/jewels86/ReX): A **Re**cursive e**X**ploration algorithm which finds the area of polygons.
 
-[![github-stats](https://github-readme-stats.vercel.app/api?username=jewels86&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+### My Math Work
+- [**ReX**](https://github.com/jewels86/ReX): A **Re**cursive e**X**ploration algorithm which finds the area of polygons.
+- [**Paravectors**](https://github.com/jewels86/ReX): 3-component curved vectors for the description of systems.
+
+[![github-stats](https://github-readme-stats.vercel.app/api?username=jewels86)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## Contacting Me
