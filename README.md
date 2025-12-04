@@ -18,7 +18,7 @@ Some things I've finished:
 
 ### My Math Work
 - [**ReX**](https://github.com/jewels86/ReX): A **Re**cursive e**X**ploration algorithm which finds the area of polygons.
-- [**Paravectors**](https://github.com/jewels86/ReX): 3-component curved vectors for the description of systems.
+- [**Paravectors**](https://github.com/jewels86/Paravectors): 3-component curved vectors for the description of systems.
 
 ## Contacting Me
 You can reach out to me through my email at `jewels@jewels86.me`, or through Discord at `jewels86`.
