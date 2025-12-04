@@ -20,9 +20,5 @@ Some things I've finished:
 - [**ReX**](https://github.com/jewels86/ReX): A **Re**cursive e**X**ploration algorithm which finds the area of polygons.
 - [**Paravectors**](https://github.com/jewels86/ReX): 3-component curved vectors for the description of systems.
 
-[![github-stats](https://github-readme-stats.vercel.app/api?username=jewels86)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ## Contacting Me
 You can reach out to me through my email at `jewels@jewels86.me`, or through Discord at `jewels86`.
